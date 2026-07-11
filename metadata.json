@@ -1,0 +1,6 @@
+{
+  "name": "Fleet Management",
+  "description": "Healthcare fleet management portal to monitor asset health, fuel efficiency, and critical alerts across active clinical transport routes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
